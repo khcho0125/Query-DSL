@@ -1,4 +1,4 @@
-# QueryDSL 정리 - 1
+# QueryDSL Starter
 
 QueryDSL은 쿼리를 자바코드로 짤 수 있도록 해주는 기술이다.
 

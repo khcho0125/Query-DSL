@@ -1,4 +1,4 @@
-# QueryDSL 정리
+# QueryDSL Tutorial
 
 #### QueryDSL을 사용하려면 QueryConfig를 설정해준다.
 
